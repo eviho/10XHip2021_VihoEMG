@@ -4,7 +4,7 @@ Viho EMG et al. 2021 - Journal of Neuroendocrinology
 
 DOI: pending
 
-## Describe your project
+## Project description
 
 This repository contains the details of the algorithms the authors used for single-cell analysis, coupling heatmaps and gene regulatory analysis.
 
