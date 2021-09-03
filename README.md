@@ -1,8 +1,8 @@
 # Cell type specificity of glucocorticoid signaling in the adult mouse hippocampus
 
 Viho EMG et al. 2021 - Journal of Neuroendocrinology
-DOI: pending
 
+DOI: pending
 
 ## Describe your project
 
