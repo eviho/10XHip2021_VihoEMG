@@ -12,3 +12,15 @@ This repository contains the details of the algorithms the authors used for sing
 2. Coupling score: generation of coupling heatmaps (R v3.6.1)
 3. pySCENIC: scalable Python SCENIC workflow (Python v3.8.5)
 4. Processing of pySCENIC output (R v3.6.1)
+
+## Data availability
+
+The hippocampus matrix and metadata table are available for download:
+
+The Seurat object used for gene expression visualization and coupling heatmaps is available for download:
+
+
+## Required packages R
+
+
+## Required packages Python
