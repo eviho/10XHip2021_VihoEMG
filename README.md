@@ -20,4 +20,6 @@ The hippocampus matrix and metadata table are available for download at: https:/
 
 The processed and clustered Seurat object "10XHip2021_seurat.object.rds" used for gene expression/co-expression visualization is available for download at:
 
+The hippocampus subset of metadata is available for download at: 
+
 The loom object used as input for pySCENIC is available for download at:
