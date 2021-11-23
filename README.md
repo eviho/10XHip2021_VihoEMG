@@ -18,6 +18,6 @@ This repository contains the details of the algorithms the authors used for sing
 
 The hippocampus matrix and metadata table are available for download at: https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x
 
-The processed and clustered final Seurat object used for gene expression/co-expression visualization is available for download at:
+The processed and clustered Seurat object "10XHip2021_seurat.object.rds" used for gene expression/co-expression visualization is available for download at:
 
 The loom object used as input for pySCENIC is available for download at:
