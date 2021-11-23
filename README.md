@@ -16,9 +16,9 @@ This repository contains the details of the algorithms the authors used for sing
 
 ## Data availability
 
-The hippocampus matrix and metadata table are available for download at: https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x
+The gene count matrix and metadata table are available for download at: https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x
 
-The processed and clustered Seurat object "10XHip2021_seurat.object.rds" used for gene expression/co-expression visualization is available for download at:
+The hippocampus Seurat object "10XHip2021_seurat.object.rds" used for gene expression/co-expression visualization is available for download at:
 
 The hippocampus subset of metadata "10XHip2021_md.tsv" is available for download at: 
 
