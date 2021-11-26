@@ -18,4 +18,4 @@ This repository contains the details of the algorithms the authors used for sing
 
 The gene count matrix and metadata table are available for download at: https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x
 
-All datasets used in the code are available for download in the following Zenodo repository: 10.5281/zenodo.5729701
+All datasets used in the code are available for download in the following Zenodo repository: https://doi.org/10.5281/zenodo.5729701
