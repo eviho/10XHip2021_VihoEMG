@@ -2,7 +2,7 @@
 
 Viho EMG et al. 2021 - Journal of Neuroendocrinology
 
-DOI: pending
+DOI: https://doi.org/10.1111/jne.13072
 
 ## Project description
 
